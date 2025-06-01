@@ -5,6 +5,7 @@ import Footer from "./Footer";
 import Service from "./Service";
 
 export default function App() {
+
   return (
     <div>
       <Navbar />
@@ -14,3 +15,4 @@ export default function App() {
     </div>
   );
 }
+
